@@ -4,8 +4,7 @@
   "description": "App que permitirá un mejor orden y organización en nuestras actividades y tareas.",
   "main": "index.js",
   "scripts": {
-    "test": "https://github.com/Leibril2007/backend_todo_list",
-    "start": "npm start"
+    "test": "https://github.com/Leibril2007/backend_todo_list"
   },
   "repository": {
     "type": "git",
